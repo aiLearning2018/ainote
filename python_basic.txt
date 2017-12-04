@@ -1,0 +1,10 @@
+免费python基础课
+https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/36691786570923
+
+第1课
+1. 自评自己编程水平：1-5档
+2. 循环语句：一段舞蹈=>while循环
+3. if条件语句：美女路口
+4. 下载安装python[选pip,添加PATH]
+
+第2课 使用函数
