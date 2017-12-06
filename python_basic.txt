@@ -8,3 +8,31 @@ https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/366917865
 4. 下载安装python[选pip,添加PATH]
 
 第2课 使用函数
+1. 打开1个网页，实现休息一会
+   google关键字 -> 打开idle > 新建文件 > 录入代码 》运行错误（未导入模块）
+2. 打开网页前，休息一段时间
+   google关键字 -> 录入代码 > 导包 > 运行
+3. 添加循环
+   http://www.tutorialspoint.com/python/python_while_loop.htm
+   time.ctime()
+   watiting more time
+4. 浏览器来自何处 webbrowser和time定义函数 》 抽象
+5. 阅读文档
+   google "python standard library" > python version > webbrowser & time document scrolling
+6. 改进“休息一下”项目
+   迭代。 a, find a friend b. teach them this code c. share your Youtube video(or share pictures/text on the forum)
+
+7. 私密消息
+   what steps would you take to rename a bunch of files on your computer?
+   a, get all file names from a folder. google > os.listdir...
+   b, for each file name, rename it. scan documentation for os, choose function can use from os to reanme files.
+ 
+   重命令的麻烦：原文件不存在 || 目标文件名已经存在 》 抛异常
+
+8. os来自何处？
+   文档 》rename
+
+9. 边界情况
+    当函数不能满足需求时 》 类（抽象）
+
+第3课 使用类-画乌龟
