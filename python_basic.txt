@@ -36,3 +36,9 @@ https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/366917865
     当函数不能满足需求时 》 类（抽象）
 
 第3课 使用类-画乌龟
+1. 画形状 - 方形
+   控制人走形状 》 python turtle > change turtule's shape, color and speed and more 》 截屏分享
+2. 乌龟文档
+   类，函数，__init__
+3. 多只乌龟 - 类与实例对象
+3.
