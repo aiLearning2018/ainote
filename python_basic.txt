@@ -40,5 +40,5 @@ https://classroom.udacity.com/courses/ud036/lessons/990110642/concepts/366917865
    控制人走形状 》 python turtle > change turtule's shape, color and speed and more 》 截屏分享
 2. 乌龟文档
    类，函数，__init__
-3. 多只乌龟 - 类与实例对象
-3.
+3. 多只乌龟 - 类与实例对象 》 改进代码质量 -》 function reuse
+4.

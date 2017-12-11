@@ -74,6 +74,8 @@ def draw_flower():
 def write_initials():
     t = new_turtle("blue", "fastest", "turtle")
 
+    rotate_move_turtle(t, )
+
     t.right(90)
     t.fd(200)
     t.back(100)
